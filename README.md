@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mahruf Hassan
 #### Web Developer
-![Web Developer](https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg?semt=ais_hybrid&w=740)
+
 
 I'm a passionate Web Developer with a strong focus on creating responsive, user-friendly websites and web applications. I specialize in HTML, CSS, JavaScript, and modern frameworks like React.js and Node.js. Whether it’s building a landing page or a full-stack application, I strive to write clean, efficient, and maintainable code.
 
