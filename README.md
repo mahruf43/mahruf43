@@ -1,26 +1,20 @@
-### Hi there 👋, I'm Mahruf Hassan
-#### Web Developer
+Hi there 👋, I'm Mahruf Hassan
+Data Analyst
 
+I’m a passionate Data Analyst with a strong focus on turning raw data into actionable insights. I work with tools like Excel, SQL, and Python (Pandas, NumPy, Matplotlib) to analyze, clean, and visualize data, helping businesses and individuals make data-driven decisions.
 
-I'm a passionate Web Developer with a strong focus on creating responsive, user-friendly websites and web applications. I specialize in HTML, CSS, JavaScript, and modern frameworks like React.js and Node.js. Whether it’s building a landing page or a full-stack application, I strive to write clean, efficient, and maintainable code.
-
-I enjoy turning complex problems into simple, beautiful digital solutions. When I’m not coding, I’m learning new tools, contributing to open-source projects, or exploring the latest in UI/UX design.
+I enjoy finding patterns in complex datasets and presenting them through clear, impactful dashboards and reports. When I’m not analyzing data, I’m learning new analytical tools, improving visualization skills, or exploring the basics of machine learning.
 
 Skills:
 
-Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB, MySQL
-
+Data Analysis: Excel, SQL, Python (Pandas, NumPy, Matplotlib)
+Data Visualization: Power BI, Excel Dashboards, Matplotlib
+Database: MySQL, MongoDB
 Tools: Git, GitHub, VS Code, Figma
 
-Skills:  HTML / CSS/REACT / JS 
+🔭 I’m currently working on Data Analysis Projects
 
-- 🔭 I’m currently working on Student 
-- 💬 Ask me about Web Development 
-
+💬 Ask me about Data Cleaning, Analysis & Visualization
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahruf43)  
 
